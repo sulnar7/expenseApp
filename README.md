@@ -1,6 +1,5 @@
-# React-Http-App
+# Expense App
 
-Making HTTP GET and POST request using axios in React
 
 # Steps to follow
 
